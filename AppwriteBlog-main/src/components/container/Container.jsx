@@ -7,6 +7,6 @@ function Container({children}) {
     </div>
   )
 }
-const a = 0
+
 //...
 export default Container
